@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="emma" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 200">
+  <defs>
+    <style>
+      .emma-cls--1 {
+        fill: #fff;
+      }
+
+      .emma-cls--2 {
+        stroke: #3b0700;
+        stroke-width: .1px;
+      }
+
+      .emma-cls--2, .emma-cls--3 {
+        fill: none;
+      }
+
+      .emma-cls--2, .emma-cls--3, .emma-cls--4 {
+        stroke-miterlimit: 10;
+      }
+
+      .emma-cls--3, .emma-cls--4 {
+        stroke: #000;
+        stroke-width: .25px;
+      }
+
+      .emma-cls--4 {
+        fill: url(#Dégradé_sans_nom_70);
+      }
+
+      .emma-cls--5 {
+        fill: #f9bb85;
+      }
+
+      .emma-cls--6 {
+        fill: #ffbf84;
+      }
+
+      .emma-cls--7 {
+        fill: #552d00;
+      }
+
+      .emma-cls--8 {
+        fill: #050101;
+      }
+
+      .emma-cls--9 {
+        fill: #0a3d08;
+      }
+
+      .emma-cls--10 {
+        fill: #620044;
+      }
+    </style>
+    <linearGradient id="Dégradé_sans_nom_70" data-name="Dégradé sans nom 70" x1="101.71" y1="197.52" x2="101.71" y2="48.12" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffd47f"/>
+      <stop offset=".07" stop-color="#d9ae62"/>
+      <stop offset=".14" stop-color="#b68c48"/>
+      <stop offset=".23" stop-color="#976e31"/>
+      <stop offset=".32" stop-color="#7f561f"/>
+      <stop offset=".42" stop-color="#6c4311"/>
+      <stop offset=".54" stop-color="#5f3607"/>
+      <stop offset=".7" stop-color="#572f01"/>
+      <stop offset=".99" stop-color="#552d00"/>
+    </linearGradient>
+  </defs>
+  <path id="cheveux" class="emma-cls--4" d="M118.05,131.11c-4.9,1.1-55.7,74.8-72.2,63.7-10.8-7.3,7.3-94.5,8.3-110,.6-8.7,5.7-19.2,12.9-25.1,24.4-19.8,75.2-16.2,80.6,26.2,48.5,200.4-49.8,73.4-61.8,55.5-6.1,4.9,17.8-6.1,17.8-6.1"/>
+  <rect id="cou" class="emma-cls--6" x="87.35" y="150.31" width="26.9" height="21.9"/>
+  <path id="epaule" class="emma-cls--10" d="M112.65,167.81c-5.2,.4-9.3,.9-12.6,1.5-3.3-.6-7.5-1.1-12.6-1.5-68-4.8-74.5,32.3-74.5,32.3H187.05s-6.5-37.1-74.4-32.3Z"/>
+  <path id="oreille_gauche" class="emma-cls--6" d="M61.45,102.91s-2.1-5.5-5.7,0c-3.6,5.5,0,15.1,0,15.1,0,0,2.6,4.5,5.7,0,3-4.5,0-15.1,0-15.1Z"/>
+  <path id="oreille_droite" class="emma-cls--6" d="M141.65,102.91s2.1-5.5,5.7,0c3.6,5.5,0,15.1,0,15.1,0,0-2.6,4.5-5.7,0-3-4.5,0-15.1,0-15.1Z"/>
+  <path id="tete" class="emma-cls--5" d="M105.95,62.91h-9.1c-19.6,0-35.4,15.3-35.4,34.1v20.5c0,18.9,15.9,34.1,35.4,34.1h9.1c19.6,0,35.4-15.3,35.4-34.1v-20.4c.1-18.9-15.8-34.2-35.4-34.2Z"/>
+  <g id="oeil_gauche" data-name="oeil gauche">
+    <path class="emma-cls--1" d="M85.35,94.41c-5.2,0-9.5,3.6-9.5,8s4.3,8,9.5,8,9.5-3.6,9.5-8-4.2-8-9.5-8Zm0,12.5c-2.7,0-4.9-2-4.9-4.4s2.2-4.4,4.9-4.4,4.9,2,4.9,4.4c0,2.4-2.2,4.4-4.9,4.4Z"/>
+    <path class="emma-cls--9" d="M85.35,98.11c-2.7,0-4.9,2-4.9,4.4s2.2,4.4,4.9,4.4,4.9-2,4.9-4.4c0-2.4-2.2-4.4-4.9-4.4Zm-3,4.6c-.4,0-.8-.6-.8-1.2s.3-1.2,.8-1.2,.8,.6,.8,1.2-.4,1.2-.8,1.2Zm3.4,2.1c-1.3,0-2.3-1-2.3-2.3s1-2.3,2.3-2.3,2.3,1,2.3,2.3-1.1,2.3-2.3,2.3Z"/>
+    <path class="emma-cls--1" d="M82.35,100.21c-.4,0-.8,.6-.8,1.2s.3,1.2,.8,1.2,.8-.6,.8-1.2-.4-1.2-.8-1.2Z"/>
+    <path d="M85.75,100.21c-1.3,0-2.3,1-2.3,2.3s1,2.3,2.3,2.3,2.3-1,2.3-2.3-1.1-2.3-2.3-2.3Z"/>
+  </g>
+  <g id="oeil_droite" data-name="oeil droite">
+    <path class="emma-cls--1" d="M116.85,94.41c-5.2,0-9.5,3.6-9.5,8s4.3,8,9.5,8,9.5-3.6,9.5-8-4.2-8-9.5-8Zm0,12.5c-2.7,0-4.9-2-4.9-4.4s2.2-4.4,4.9-4.4,4.9,2,4.9,4.4c0,2.4-2.2,4.4-4.9,4.4Z"/>
+    <path id="_vvvvvvv" data-name=" vvvvvvv" class="emma-cls--9" d="M116.85,98.11c-2.7,0-4.9,2-4.9,4.4s2.2,4.4,4.9,4.4,4.9-2,4.9-4.4c0-2.4-2.2-4.4-4.9-4.4Zm-3,4.6c-.4,0-.8-.6-.8-1.2s.3-1.2,.8-1.2,.8,.6,.8,1.2-.4,1.2-.8,1.2Zm3.4,2.1c-1.3,0-2.3-1-2.3-2.3s1-2.3,2.3-2.3,2.3,1,2.3,2.3-1.1,2.3-2.3,2.3Z"/>
+    <path class="emma-cls--1" d="M113.85,100.21c-.4,0-.8,.6-.8,1.2s.3,1.2,.8,1.2,.8-.6,.8-1.2-.4-1.2-.8-1.2Z"/>
+    <path d="M117.25,100.21c-1.3,0-2.3,1-2.3,2.3s1,2.3,2.3,2.3,2.3-1,2.3-2.3-1.1-2.3-2.3-2.3Z"/>
+  </g>
+  <path id="bouche" class="emma-cls--1" d="M117.25,135.31c-18,13.8-31.5,0-31.5,0"/>
+  <path id="nez" class="emma-cls--2" d="M100.85,110.31s-7.6,14.5-2.8,15.2c4.7,.8,5.5-.9,5.5-.9"/>
+  <path id="sourcil_gauche" data-name="sourcil gauche" d="M94.85,94.81v-2.4s-12.2-4-19,2.4,3.1,0,3.1,0c0,0,6.1-3.6,15.9,0Z"/>
+  <path id="sourcil_droite" data-name="sourcil droite" class="emma-cls--8" d="M107.35,94.71v-2.4s12.2-4,19,2.4-3.1,0-3.1,0c0,0-6.1-3.6-15.9,0Z"/>
+  <path id="meche" class="emma-cls--7" d="M61.45,99.35s12.12-37.72,41.04-36.44,27.73,28.78,38.86,36.44-2.96-31.56-2.96-31.56l-14.74-12.85h-19.09l-27.59,3.02-17.2,19.68-2.27,19.92,3.94,1.79Z"/>
+  <g id="lunettes">
+    <path class="emma-cls--3" d="M72.26,105.63s11.8,18.1,24.7,0c12.9-18.1-37.1-18.1-24.7,0Z"/>
+    <path class="emma-cls--3" d="M131.66,100.53h0c1-12.8-37.9-11.1-26.8,5.1,0,0,11.8,18.1,24.7,0,1.3-1.9,2-3.6,2.1-5.1h0Z"/>
+    <path class="emma-cls--3" d="M99.06,100.43s1.8,1.9,3.8,0"/>
+    <line class="emma-cls--3" x1="70.26" y1="100.83" x2="61.46" y2="101.33"/>
+    <line class="emma-cls--3" x1="141.36" y1="102.03" x2="131.66" y2="100.83"/>
+  </g>
+</svg>
